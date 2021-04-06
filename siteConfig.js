@@ -1,12 +1,12 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://blog.ely.io",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "ely.io",
   siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Light",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "ely.io",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
@@ -24,7 +24,7 @@ module.exports = {
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "Fuck me Gently Productions",
     navigation: [
       {
         label: "Home",
@@ -50,40 +50,40 @@ module.exports = {
   },
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Built with Draftbox",
-    helpText: "Get the latest posts delivered right to your inbox.",
-    successMessage: "Thanks for subscribing to Built with Draftbox.",
+    title: "Subscribe to Get Dope News",
+    helpText: "Get the latest dope words in your inbox.",
+    successMessage: "Word. You're all good.",
   },
   socialLinks: {
-    twitter: "https://twitter.com/draftboxhq",
-    facebook: "https://facebook.com/",
-    instagram: "https://www.instagram.com/",
-    linkedin: "https://linkedin.com",
-    github: "https://github.com/draftbox-co",
-    pinterest: "",
-    youtube: "",
-    dribbble: "",
-    behance: "",
-    externalLink: "",
-    whatsapp: "",
+    twitter: "https://twitter.com/creativ_ely",
+    //facebook: "https://facebook.com/",
+    instagram: "https://www.instagram.com/creativ_ely",
+    linkedin: "https://linkedin.com/ely-kahn",
+    github: "https://github.com/elykahn",
+    pinterest: "https://www.pinterest.com/elykahncreative",
+    youtube: "https://www.youtube.com/c/ElyKahn",
+    //dribbble: "",
+    //behance: "",
+    externalLink: "https://ely.io",
+    //whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
-    successMessage: "We’ll get in touch with you soon.",
+    title: "Contact ely",
+    successMessage: "I'll be in touch.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "ely.io",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Lightning.",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "ely.io",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Lightning.",
     imageUrl: "twitterImage.png",
-    username: "@DraftboxHQ",
+    username: "@creativ_ely",
   },
-  facebookCard: {
+/*  facebookCard: {
     title: "Built with Draftbox",
     description:
       "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
@@ -91,10 +91,10 @@ module.exports = {
     appId: "",
     width: 1000,
     height: 523,
-  },
-  siteTitle: "Built with Draftbox",
+  },*/
+  siteTitle: "ely.io",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "Lightning",
   language: "en",
   logoUrl: "logo.svg",
   iconUrl:
