@@ -56,16 +56,16 @@ module.exports = {
   },
   socialLinks: {
     twitter: "https://twitter.com/creativ_ely",
-    //facebook: "https://facebook.com/",
+    facebook: "https://facebook.com/",
     instagram: "https://www.instagram.com/creativ_ely",
     linkedin: "https://linkedin.com/ely-kahn",
     github: "https://github.com/elykahn",
     pinterest: "https://www.pinterest.com/elykahncreative",
     youtube: "https://www.youtube.com/c/ElyKahn",
-    //dribbble: "",
-    //behance: "",
+    dribbble: "",
+    behance: "",
     externalLink: "https://ely.io",
-    //whatsapp: "",
+    whatsapp: "",
   },
   contactWidget: {
     title: "Contact ely",
@@ -83,7 +83,7 @@ module.exports = {
     imageUrl: "twitterImage.png",
     username: "@creativ_ely",
   },
-/*  facebookCard: {
+  facebookCard: {
     title: "Built with Draftbox",
     description:
       "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
@@ -91,7 +91,7 @@ module.exports = {
     appId: "",
     width: 1000,
     height: 523,
-  },*/
+  },
   siteTitle: "ely.io",
   siteDescription:
     "Lightning",
@@ -144,16 +144,16 @@ module.exports = {
       {
         family: "Merriweather",
         variants: ["700"],
-        //subsets: ['latin']
-        //text: 'Hello'
+        subsets: ['latin'],
+        text: 'Hello',
         fontDisplay: "swap",
         strategy: "selfHosted", // 'base64' || 'cdn'
       },
       {
         family: "Source Code Pro",
         variants: ["400"],
-        //subsets: ['latin']
-        //text: 'Hello'
+        subsets: ['latin'],
+        text: 'Hello',
         fontDisplay: "swap",
         strategy: "selfHosted", // 'base64' || 'cdn'
       },
