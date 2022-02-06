@@ -15,11 +15,11 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://blog.ely.io/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://blog.ely.io/contact",
       },
     ],
   },
@@ -28,24 +28,24 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://blog.ely.io/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://blog.ely.io/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
+        url: "https://blog.ely.io/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
-      },
-      {
-        label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
-      },
+        url: "https://blog.ely.io/contact",
+      }
+     // {
+     //   label: "External Link",
+     //   url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+     // },
     ],
   },
   subscribeWidget: {
@@ -56,16 +56,16 @@ module.exports = {
   },
   socialLinks: {
     twitter: "https://twitter.com/creativ_ely",
-    facebook: "https://facebook.com/",
+   // facebook: "https://facebook.com/",
     instagram: "https://www.instagram.com/creativ_ely",
     linkedin: "https://linkedin.com/ely-kahn",
     github: "https://github.com/elykahn",
     pinterest: "https://www.pinterest.com/elykahncreative",
     youtube: "https://www.youtube.com/c/ElyKahn",
-    dribbble: "",
-    behance: "",
+    dribbble: "https://dribbble.com/ely",
+   // behance: "",
     externalLink: "https://ely.io",
-    whatsapp: "",
+   // whatsapp: "",
   },
   contactWidget: {
     title: "Contact ely",
@@ -74,19 +74,19 @@ module.exports = {
   metadata: {
     title: "ely.io",
     description:
-      "Lightning.",
+      "ely: in/out",
   },
   twitterCard: {
     title: "ely.io",
     description:
-      "Lightning.",
+      "ely: in/out.",
     imageUrl: "twitterImage.png",
     username: "@creativ_ely",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "Built by ely kahn",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "ely.io",
     imageUrl: "facebookImage.png",
     appId: "",
     width: 1000,
