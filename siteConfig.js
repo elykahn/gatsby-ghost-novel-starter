@@ -56,16 +56,15 @@ module.exports = {
   },
   socialLinks: {
     twitter: "https://twitter.com/creativ_ely",
-   // facebook: "https://facebook.com/",
+    facebook: "https://facebook.com/",
     instagram: "https://www.instagram.com/creativ_ely",
     linkedin: "https://linkedin.com/ely-kahn",
     github: "https://github.com/elykahn",
     pinterest: "https://www.pinterest.com/elykahncreative",
     youtube: "https://www.youtube.com/c/ElyKahn",
     dribbble: "https://dribbble.com/ely",
-   // behance: "",
-    externalLink: "https://ely.io",
-   // whatsapp: "",
+    behance: "https://behance.com/creativ_ely/",
+    externalLink: "https://ely.io"
   },
   contactWidget: {
     title: "Contact ely",
