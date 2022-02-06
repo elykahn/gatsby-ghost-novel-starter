@@ -3,13 +3,13 @@ module.exports = {
   postsPerPage: 12,
   siteTitleMeta: "ely.io",
   siteDescriptionMeta:
-    "ely.io: mindful design, creative tech & conscious curiosity",
+    "elyio mindful design creative tech and conscious curiosity",
   shareImageWidth: 1000,
   shareImageHeight: 523,
   shortTitle: "ely.io",
   siteIcon: "favicon.png",
-  backgroundColor: "#e9e9e9",
-  themeColor: "#15171A",
+  backgroundColor: "#15171A",
+  themeColor: "#e9e9e9",
   apiUrl: "https://ghost.theasdfghjkl.com",
   header: {
     navigation: [
@@ -41,11 +41,11 @@ module.exports = {
       {
         label: "Contact",
         url: "https://blog.ely.io/contact",
-      }
-     // {
-     //   label: "External Link",
-     //   url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
-     // },
+      },
+      {
+        label: "External Link",
+        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+      },
     ],
   },
   subscribeWidget: {
@@ -74,12 +74,12 @@ module.exports = {
   metadata: {
     title: "ely.io",
     description:
-      "ely: in/out",
+      "ely in out",
   },
   twitterCard: {
     title: "ely.io",
     description:
-      "ely: in/out.",
+      "ely in out.",
     imageUrl: "twitterImage.png",
     username: "@creativ_ely",
   },
