@@ -3,7 +3,7 @@ module.exports = {
   postsPerPage: 12,
   siteTitleMeta: "ely.io",
   siteDescriptionMeta:
-    "Light",
+    "ely.io: mindful design, creative tech & conscious curiosity",
   shareImageWidth: 1000,
   shareImageHeight: 523,
   shortTitle: "ely.io",
