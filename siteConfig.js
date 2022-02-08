@@ -94,9 +94,9 @@ module.exports = {
   },
   siteTitle: "ely.io",
   siteDescription:
-    "Lightning",
+    "mindful design creative tech and conscious curiosity",
   language: "en",
-  logoUrl: "logo.svg",
+  logoUrl: "elogo.svg",
   iconUrl:
     "https://ghost.theasdfghjkl.com/content/images/2020/05/draftbox-colored-icon.png",
   coverUrl: "cover.jpg",
